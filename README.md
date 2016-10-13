@@ -1,2 +1,3 @@
 # hello-word
-My first repository
+My first repository.
+Today I received my Reise Yogamatte!
